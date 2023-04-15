@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vinicius 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-luiz-1955a2260/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-luiz-1955a2260/) target="_blank" rel="external"
 
 ![Vinicius Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussluiz&show_icons=true&theme=radical)
 

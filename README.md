@@ -8,6 +8,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/viniciussluiz/viniciussluiz/output/pacman-contribution-graph.svg">
 </picture>
 
+<a href="https://github.com/viniciussluiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussluiz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussluiz&layout=compact&langs_count=6&theme=merko"/>
+</a>
+
 ## Tecnologias que eu uso no dia a dia
 
 <div style="display: inline_block"><br/>

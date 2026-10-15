@@ -8,7 +8,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/viniciussluiz/viniciussluiz/output/pacman-contribution-graph.svg">
 </picture>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciussluiz&theme=tokyo-night)
+<!--  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciussluiz&theme=tokyo-night) -->
 
 <table>
 <tr>
